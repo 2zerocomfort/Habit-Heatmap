@@ -1,0 +1,10 @@
+Update TypeScript configuration for Vercel deployment
+
+Modify tsconfig.json to remove monorepo-specific extends and references, inlining necessary compiler options for a self-contained React TypeScript setup compatible with Vercel.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 462b6af3-e99d-48c8-a4d0-3adbddf5e91b
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: b85ff578-09c9-4391-9d20-d453ff7d05de
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/5d34bea2-9434-4418-b808-f3d3f5400c26/462b6af3-e99d-48c8-a4d0-3adbddf5e91b/FLaKhHK
+Replit-Helium-Checkpoint-Created: true
