@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="#0f172a"/>
+  <!-- Heatmap grid — 5 cols × 5 rows of day squares -->
+  <!-- Row 1 -->
+  <rect x="112" y="128" width="48" height="48" rx="8" fill="#1e293b"/>
+  <rect x="172" y="128" width="48" height="48" rx="8" fill="#7f1d1d"/>
+  <rect x="232" y="128" width="48" height="48" rx="8" fill="#991b1b"/>
+  <rect x="292" y="128" width="48" height="48" rx="8" fill="#1e293b"/>
+  <rect x="352" y="128" width="48" height="48" rx="8" fill="#b91c1c"/>
+  <!-- Row 2 -->
+  <rect x="112" y="188" width="48" height="48" rx="8" fill="#dc2626"/>
+  <rect x="172" y="188" width="48" height="48" rx="8" fill="#1e293b"/>
+  <rect x="232" y="188" width="48" height="48" rx="8" fill="#7f1d1d"/>
+  <rect x="292" y="188" width="48" height="48" rx="8" fill="#ef4444"/>
+  <rect x="352" y="188" width="48" height="48" rx="8" fill="#1e293b"/>
+  <!-- Row 3 -->
+  <rect x="112" y="248" width="48" height="48" rx="8" fill="#1e293b"/>
+  <rect x="172" y="248" width="48" height="48" rx="8" fill="#991b1b"/>
+  <rect x="232" y="248" width="48" height="48" rx="8" fill="#dc2626"/>
+  <rect x="292" y="248" width="48" height="48" rx="8" fill="#1e293b"/>
+  <rect x="352" y="248" width="48" height="48" rx="8" fill="#7f1d1d"/>
+  <!-- Row 4 -->
+  <rect x="112" y="308" width="48" height="48" rx="8" fill="#b91c1c"/>
+  <rect x="172" y="308" width="48" height="48" rx="8" fill="#1e293b"/>
+  <rect x="232" y="308" width="48" height="48" rx="8" fill="#ef4444"/>
+  <rect x="292" y="308" width="48" height="48" rx="8" fill="#991b1b"/>
+  <rect x="352" y="308" width="48" height="48" rx="8" fill="#1e293b"/>
+  <!-- Row 5 -->
+  <rect x="112" y="368" width="48" height="48" rx="8" fill="#1e293b"/>
+  <rect x="172" y="368" width="48" height="48" rx="8" fill="#dc2626"/>
+  <rect x="232" y="368" width="48" height="48" rx="8" fill="#1e293b"/>
+  <rect x="292" y="368" width="48" height="48" rx="8" fill="#b91c1c"/>
+  <rect x="352" y="368" width="48" height="48" rx="8" fill="#ef4444"/>
+</svg>
